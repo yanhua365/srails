@@ -15,6 +15,7 @@ srails
 - spring security
 - jquery
 - bootstrap
+- joda time
 
 目前需实现的功能：
 - 提供快速查询功能
