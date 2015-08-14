@@ -29,3 +29,5 @@ srails
 - 单元测试
 - REST支持
 - 用户、权限、菜单等的管理
+
+本项目不再更新，请使用springside或springboot。
