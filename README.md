@@ -30,4 +30,4 @@ srails
 - REST支持
 - 用户、权限、菜单等的管理
 
-测试一下github flow。
+本项目不再更新，请使用springside或springboot。
